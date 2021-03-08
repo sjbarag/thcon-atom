@@ -1,7 +1,7 @@
 {
   "name": "thcon",
   "main": "./lib/thcon",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Switches atom UI and editor themes with https://github.com/theme-controller/thcon",
   "keywords": [
     "themes",
