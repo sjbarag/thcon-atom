@@ -10,7 +10,7 @@
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
-  "repository": "https://github.com/theme-controller/thcon-atom",
+  "repository": "git@github.com:theme-controller/thcon-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
